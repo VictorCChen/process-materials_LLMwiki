@@ -1,6 +1,8 @@
 # Process Materials
 
-A pipeline skill for the second brain wiki — takes uncommitted raw source changes through commit, ingest, discussion, wiki generation, and final commit.
+An agent skill for **ingesting new materials into a Karpathy-style LLM wiki** — takes raw source files through commit, AI discussion, wiki page generation, and final commit in a single pipeline.
+
+Inspired by Andrej Karpathy's approach of building a personal wiki as a second brain, this skill automates the workflow of transforming raw notes, articles, and bookmarks into structured, cross-linked wiki pages with provenance tracking.
 
 ## What it does
 
@@ -11,7 +13,7 @@ A pipeline skill for the second brain wiki — takes uncommitted raw source chan
 
 ## When to use
 
-Say "process", "process new materials", "process my changes", or "commit and ingest" after editing raw sources.
+Say "process", "process new materials", "process my changes", or "commit and ingest" after editing raw sources. This is the standard workflow whenever you add new knowledge to the wiki.
 
 ## Installation
 
